@@ -5,6 +5,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../algaworks-desafio-builder/pom.xml" />
+        <option value="$PROJECT_DIR$/../algaworks-desafio-factory-method/factory-method-client/pom.xml" />
+        <option value="$PROJECT_DIR$/../algaworks-desafio-factory-method/factory-method-lib/pom.xml" />
       </list>
     </option>
   </component>
